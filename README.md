@@ -1,5 +1,5 @@
 # SS
-Software Security Assignment 2 
+# Software Security Assignment 2 
 Deploy this demo to Your Computer 1. Prerequisite - XAMPP or any other web server install in your computer to run php application. - Text editor to edit code snippet (Notepad, Sublime text). 
  
 How to: install XAMPP on your PC and run this demo 
