@@ -1,0 +1,43 @@
+body {
+   background-image: url("bg.png");
+    background-repeat: no-repeat;
+  background-size:100%;
+  font-family: Arial,sans-serif;
+  margin: auto;
+  padding: 10px;
+   color: white;}
+
+.box {
+ border: 8px dotted #A42B16;
+border-radius: 15px 27px 0px 0px;
+}
+
+.result {
+  -webkit-box-flex: 2;
+  -moz-box-flex: 2;
+  box-flex: 2;
+}
+
+header {
+  color:#CBCDF2;
+  padding:2px 5px;
+  font-size:100%;
+  margin: auto;
+  text-align: left;
+}
+.login {
+  font-size: 204%;
+  display: block;
+  margin: auto;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+  color: #FF9800;
+  line-height: normal;
+}
+.warn {
+  color: red;
+}
+a img{
+  width: 200px;
+}
