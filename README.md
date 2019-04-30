@@ -1,4 +1,3 @@
-# SS
 # Software Security Assignment 2 
 Deploy this demo to Your Computer 1. Prerequisite - XAMPP or any other web server install in your computer to run php application. - Text editor to edit code snippet (Notepad, Sublime text). 
  
@@ -16,29 +15,10 @@ If you have UAC enabled – and we hope so – remember to install XAMPP inside 
  
 2. Follow below step 
  
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
 - Start apache and MySQL (for database) to run your php application. 
 
  
 - On start if you get this error then follow below steps to successfully run your web server to run php application. 
- 
- 
- 
-
- 
- 
  
 - Server started successfully now open the browser and open any one of below url o http://localhost o http://127.0.0.1:8080/ (8080 is your port number user in case of you changed default). This shows you below screen 
 
